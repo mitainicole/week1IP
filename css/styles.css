@@ -1,0 +1,35 @@
+body{
+  margin:0;
+  font-family:Arial;
+  font-size: 17px;
+  color:#3308fb;
+}
+#background{
+  background-image:url('../img/background.jpg');
+  background-size: cover;
+  background-position: center;
+  height:100vh;
+}
+#education{
+ background-image:url('../img/education.jpg');
+ font-style:Arial;
+ text-align: center;
+ font-size: 22px;
+ font-weight: 600;
+ color: :#f1395a;
+}
+#hobbies{
+  font-style:Arial;
+  text-align:right;
+  font-size: 22px;
+  font-weight: 600;
+  text-shadow: 2px 2px #FF0000;
+  color: #fb8a08 ;
+}
+#travel{
+  font-style:Arial;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+  color: :#f1395a;
+}
